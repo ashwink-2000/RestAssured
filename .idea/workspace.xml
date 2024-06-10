@@ -5,14 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fb02c898-0613-49e4-9784-eaa48dd6dba8" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/tests/GetRequest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/org/tests/GetRequest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/org/tests/GetRequest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,12 +38,29 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "TestNG.GetRequest.getAllBookings.executor": "Run",
-    "git-widget-placeholder": "master",
+    "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
     "onboarding.tips.debug.path": "D:/intellj Projects/com.restassured.project/src/main/java/org/example/Main.java"
   }
 }]]></component>
-  <component name="RunManager">
+  <component name="RunManager" selected="TestNG.GetRequest">
+    <configuration name="GetRequest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="com.restassured.project" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.tests" />
+      <option name="MAIN_CLASS_NAME" value="org.tests.GetRequest" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="GetRequest.getAllBookings" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="com.restassured.project" />
       <extension name="coverage">
@@ -70,6 +81,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.GetRequest" />
         <item itemvalue="TestNG.GetRequest.getAllBookings" />
       </list>
     </recent_temporary>
@@ -84,6 +96,17 @@
       <updated>1717739076260</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
